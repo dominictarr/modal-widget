@@ -1,0 +1,15 @@
+{
+  "name": "modal-widget",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/modal-widget",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/modal-widget.git"
+  },
+  "dependencies": {
+    "h": "~0.1.0"
+  },
+  "devDependencies": {},
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"
+}
